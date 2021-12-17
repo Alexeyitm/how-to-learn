@@ -249,6 +249,7 @@ p, h1, h2, h3 {
 }
 
 .table__cell_theme_dark {
+  margin-top: 80px;
   width: 200px;
   z-index: 2;
 }
