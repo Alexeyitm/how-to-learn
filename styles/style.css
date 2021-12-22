@@ -102,7 +102,6 @@
   font-size: 18px;
   font-weight: normal;
   color: #2f80ed;
-  margin: 0;
 }
 
 .two-columns__main-text {
@@ -200,7 +199,6 @@
 }
 
 .feynman__title {
-  margin: 0;
   width: 648px;
   margin: 100px auto 70px auto;
   z-index: 1;
