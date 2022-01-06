@@ -1,0 +1,13 @@
+.cards {
+  width: 920px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.cards::after {
+  content: "";
+  width: 240px;
+}
