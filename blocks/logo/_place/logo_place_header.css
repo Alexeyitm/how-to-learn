@@ -4,4 +4,11 @@
   top: 30px;
   left: 64px;
   z-index: 3;
+  transition: 1s;
 }
+
+.logo_place_header:hover {
+  opacity: .5;
+  transition: 1s;
+}
+
