@@ -1,9 +1,18 @@
-# How to learn
+# Научиться учиться
 
-## What is it?
-This is a repository with a web page. Includes several separate blocks. Created according to the BEM methodology.
+### О репозитории
 
-## Technologies?
+Страница о современных и эффективных подходах к обучению. Выполнена по методологии БЭМ, организация файловой структуры - Nested.
+
+**Ссылка на страницу**
+
+* [Ссылка на страницу в GitHub Pages](https://alexeyitm.github.io/how-to-learn/)
+
+**Стек проекта**
+
 * HTML
 * CSS
-* Nested
+
+**Что планируется доработать**
+
+* Сделать верстку адаптивной
