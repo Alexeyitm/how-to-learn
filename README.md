@@ -20,7 +20,7 @@
 
 ## Посмотреть страницу и макет:
 
-* [Место на Github Pages](https://alexeyitm.github.io/how-to-learn/)
+* [Научиться учиться на Github Pages](https://alexeyitm.github.io/how-to-learn/)
 
 ## Что можно улучшить:
 
